@@ -13,10 +13,14 @@ Supports all Obsidian supported platforms, includes:
 - Android
 - IOS
 
+Todo
+ -  Add Common Lisp support
+
 Currently, support languages:
 
 | Supported language | Way                                                          |
 | ------------------ | ------------------------------------------------------------ |
+| Common Lisp        | https://onecompiler.com/commonlisp or similar                |
 | Rust               | https://play.rust-lang.org                                   |
 | Kotlin             | https://play.kotlinlang.org                                  |
 | V                  | https://play.vosca.dev/                                      |
