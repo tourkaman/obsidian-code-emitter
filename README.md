@@ -13,9 +13,6 @@ Supports all Obsidian supported platforms, includes:
 - Android
 - IOS
 
-Todo
- -  Add Common Lisp support
-
 Currently, support languages:
 
 | Supported language | Way                                                          |
@@ -115,6 +112,16 @@ puts "Hello World12"
 
 console.log((await runCode(ruby_code, 'rb')).data.output);
 ```
+
+## Common Lisp
+
+See these pages
+
+https://github.com/tourkaman/obsidian-code-emitter/blob/dev-common-lisp/src/backend/providers/sololearn.ts  
+https://onecompiler.com/apis/code-execution  
+https://onecompiler.com/apis  
+https://onecompiler.com/apis/pricing  
+https://duckduckgo.com/?q=online+common+lisp+repl&t=ffab&ia=web  
 
 
 
